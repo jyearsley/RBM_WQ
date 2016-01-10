@@ -1,0 +1,6 @@
+#Object files
+*.o
+#Files with tilde
+*~
+#Fortran MOD files
+*.mod
