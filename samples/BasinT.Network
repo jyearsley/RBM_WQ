@@ -1,0 +1,197 @@
+Test Example for Input to RBM10_VIC modeling system 0.5 degree grid
+./rbm10_T/Basin_DA_flow
+./rbm10_T/Basin_DA_heat
+  19700101  20001231         1
+        36        83       119         T
+./ParameterFiles/BasinT_PointSource
+    2 Headwaters   1 TribCell    55  Headwaters      24         R.M. =     82.75
+   19.60     8.80   0.3200     5.00   0.1100
+Node     1 Row     9 Column    10  Lat    50.75 Long       8.75 R.M. =     41.37    2
+Node     2 Row     8 Column     9  Lat    50.25 Long       8.25 R.M. =      0.00    2
+    2 Headwaters   2 TribCell    62  Headwaters      25         R.M. =     69.71
+   19.90     8.70   0.2800     4.10   0.1100
+Node     3 Row     8 Column     6  Lat    50.25 Long       6.75 R.M. =     34.86    2
+Node     4 Row     7 Column     6  Lat    49.75 Long       6.75 R.M. =      0.00    2
+    2 Headwaters   3 TribCell    62  Headwaters      25         R.M. =     69.71
+   19.90     8.70   0.2800     4.60   0.1100
+Node     5 Row     6 Column     6  Lat    49.25 Long       6.75 R.M. =     34.86    2
+Node     6 Row     7 Column     6  Lat    49.75 Long       6.75 R.M. =      0.00    2
+    2 Headwaters   4 TribCell    61  Headwaters      25         R.M. =     69.71
+   19.90     8.50   0.2900     3.90   0.1100
+Node     7 Row     8 Column     5  Lat    50.25 Long       6.25 R.M. =     34.86    2
+Node     8 Row     7 Column     5  Lat    49.75 Long       6.25 R.M. =      0.00    2
+    2 Headwaters   5 TribCell    61  Headwaters      25         R.M. =     45.04
+   19.90     8.30   0.3000     2.60   0.1100
+Node     9 Row     7 Column     4  Lat    49.75 Long       5.75 R.M. =     22.52    2
+Node    10 Row     7 Column     5  Lat    49.75 Long       6.25 R.M. =      0.00    2
+    2 Headwaters   6 TribCell    60  Headwaters      25         R.M. =     45.51
+   19.90     8.60   0.3100     3.60   0.1100
+Node    11 Row     6 Column     4  Lat    49.25 Long       5.75 R.M. =     22.75    2
+Node    12 Row     6 Column     5  Lat    49.25 Long       6.25 R.M. =      0.00    2
+    3 Headwaters   7 TribCell    59  Headwaters      25         R.M. =     81.28
+   19.80     8.80   0.2900     4.60   0.1000
+Node    13 Row     4 Column     6  Lat    48.25 Long       6.75 R.M. =     58.07    2
+Node    14 Row     4 Column     5  Lat    48.25 Long       6.25 R.M. =     23.21    2
+Node    15 Row     5 Column     5  Lat    48.75 Long       6.25 R.M. =      0.00    2
+    2 Headwaters   8 TribCell    58  Headwaters      25         R.M. =     45.96
+   19.80     8.80   0.2800     4.70   0.1100
+Node    16 Row     5 Column     7  Lat    48.75 Long       7.25 R.M. =     22.98    2
+Node    17 Row     5 Column     6  Lat    48.75 Long       6.75 R.M. =      0.00    2
+    2 Headwaters   9 TribCell    73  Headwaters      27         R.M. =     44.58
+   19.60     8.70   0.3100     4.80   0.1100
+Node    18 Row     8 Column    11  Lat    50.25 Long       9.25 R.M. =     22.29    2
+Node    19 Row     8 Column    10  Lat    50.25 Long       8.75 R.M. =      0.00    2
+    3 Headwaters  10 TribCell    71  Headwaters      27         R.M. =     79.43
+   19.50     8.40   0.3400     3.60   0.1100
+Node    20 Row     8 Column    13  Lat    50.25 Long      10.25 R.M. =     57.14    2
+Node    21 Row     8 Column    12  Lat    50.25 Long       9.75 R.M. =     22.29    2
+Node    22 Row     7 Column    12  Lat    49.75 Long       9.75 R.M. =      0.00    2
+    2 Headwaters  11 TribCell    69  Headwaters      27         R.M. =     69.71
+   19.50     8.20   0.3400     3.20   0.1100
+Node    23 Row     8 Column    14  Lat    50.25 Long      10.75 R.M. =     34.86    2
+Node    24 Row     7 Column    14  Lat    49.75 Long      10.75 R.M. =      0.00    2
+    2 Headwaters  12 TribCell    69  Headwaters      27         R.M. =     45.04
+   19.50     8.00   0.3500     3.00   0.1100
+Node    25 Row     7 Column    15  Lat    49.75 Long      11.25 R.M. =     22.52    2
+Node    26 Row     7 Column    14  Lat    49.75 Long      10.75 R.M. =      0.00    2
+    2 Headwaters  13 TribCell    69  Headwaters      27         R.M. =     69.71
+   19.60     8.20   0.3300     3.40   0.1100
+Node    27 Row     6 Column    14  Lat    49.25 Long      10.75 R.M. =     34.86    2
+Node    28 Row     7 Column    14  Lat    49.75 Long      10.75 R.M. =      0.00    2
+    2 Headwaters  14 TribCell    79  Headwaters      29         R.M. =     45.51
+   19.60     8.50   0.3200     4.20   0.1100
+Node    29 Row     6 Column    12  Lat    49.25 Long       9.75 R.M. =     22.75    2
+Node    30 Row     6 Column    11  Lat    49.25 Long       9.25 R.M. =      0.00    2
+    2 Headwaters  15 TribCell    79  Headwaters      29         R.M. =     83.25
+   19.70     8.90   0.3000     5.00   0.1100
+Node    31 Row     5 Column    10  Lat    48.75 Long       8.75 R.M. =     41.62    2
+Node    32 Row     6 Column    11  Lat    49.25 Long       9.25 R.M. =      0.00    2
+    2 Headwaters  16 TribCell    78  Headwaters      29         R.M. =     83.50
+   19.70     8.90   0.2900     4.80   0.1100
+Node    33 Row     4 Column    10  Lat    48.25 Long       8.75 R.M. =     41.75    2
+Node    34 Row     5 Column    11  Lat    48.75 Long       9.25 R.M. =      0.00    2
+    2 Headwaters  17 TribCell    94  Headwaters      34         R.M. =     47.32
+   19.90     9.30   0.3100     4.50   0.1000
+Node    35 Row     2 Column    10  Lat    47.25 Long       8.75 R.M. =     23.66    2
+Node    36 Row     2 Column     9  Lat    47.25 Long       8.25 R.M. =      0.00    2
+    2 Headwaters  18 TribCell    94  Headwaters      34         R.M. =     84.26
+   20.10     9.80   0.3100     4.80   0.1000
+Node    37 Row     1 Column    10  Lat    46.75 Long       8.75 R.M. =     42.13    2
+Node    38 Row     2 Column     9  Lat    47.25 Long       8.25 R.M. =      0.00    2
+    3 Headwaters  19 TribCell    92  Headwaters      34         R.M. =     89.89
+   20.00     9.70   0.3100     5.00   0.1000
+Node    39 Row     1 Column     9  Lat    46.75 Long       8.25 R.M. =     66.01    2
+Node    40 Row     1 Column     8  Lat    46.75 Long       7.75 R.M. =     23.88    2
+Node    41 Row     2 Column     7  Lat    47.25 Long       7.25 R.M. =      0.00    2
+    4 Headwaters  20 TribCell   115  Headwaters      36         R.M. =     86.32
+   19.70     8.90   0.3300     5.00   0.1100
+Node    42 Row    11 Column     8  Lat    51.75 Long       7.75 R.M. =     64.74    2
+Node    43 Row    11 Column     7  Lat    51.75 Long       7.25 R.M. =     43.16    2
+Node    44 Row    11 Column     6  Lat    51.75 Long       6.75 R.M. =     21.58    2
+Node    45 Row    11 Column     5  Lat    51.75 Long       6.25 R.M. =      0.00    2
+    4 Headwaters  21 TribCell   114  Headwaters      36         R.M. =     87.27
+   19.60     8.90   0.3200     5.10   0.1000
+Node    46 Row    10 Column     9  Lat    51.25 Long       8.25 R.M. =     65.45    2
+Node    47 Row    10 Column     8  Lat    51.25 Long       7.75 R.M. =     43.63    2
+Node    48 Row    10 Column     7  Lat    51.25 Long       7.25 R.M. =     21.82    2
+Node    49 Row    10 Column     6  Lat    51.25 Long       6.75 R.M. =      0.00    2
+    2 Headwaters  22 TribCell   114  Headwaters      36         R.M. =     69.71
+   19.90     8.70   0.2900     4.20   0.1100
+Node    50 Row     9 Column     6  Lat    50.75 Long       6.75 R.M. =     34.86    2
+Node    51 Row    10 Column     6  Lat    51.25 Long       6.75 R.M. =      0.00    2
+    2 Headwaters  23 TribCell   113  Headwaters      36         R.M. =     44.11
+   19.90     8.90   0.2900     4.70   0.1100
+Node    52 Row     9 Column     8  Lat    50.75 Long       7.75 R.M. =     22.05    2
+Node    53 Row     9 Column     7  Lat    50.75 Long       7.25 R.M. =      0.00    2
+    3 Headwaters  24 TribCell   112  Headwaters      36         R.M. =     92.00
+   19.80     8.90   0.3100     5.10   0.1100
+Node    54 Row     9 Column     9  Lat    50.75 Long       8.25 R.M. =     57.14    2
+Node    55 Row     8 Column     9  Lat    50.25 Long       8.25 R.M. =     34.86    2
+Node    56 Row     8 Column     8  Lat    50.25 Long       7.75 R.M. =      0.00    2
+    8 Headwaters  25 TribCell   112  Headwaters      36         R.M. =    262.38
+   19.90     8.80   0.2800     4.80   0.1100
+Node    57 Row     6 Column     7  Lat    49.25 Long       7.25 R.M. =    220.63    2
+Node    58 Row     5 Column     6  Lat    48.75 Long       6.75 R.M. =    197.65    2
+Node    59 Row     5 Column     5  Lat    48.75 Long       6.25 R.M. =    162.79    2
+Node    60 Row     6 Column     5  Lat    49.25 Long       6.25 R.M. =    127.93    2
+Node    61 Row     7 Column     5  Lat    49.75 Long       6.25 R.M. =    105.41    2
+Node    62 Row     7 Column     6  Lat    49.75 Long       6.75 R.M. =     64.04    2
+Node    63 Row     8 Column     7  Lat    50.25 Long       7.25 R.M. =     41.75    2
+Node    64 Row     8 Column     8  Lat    50.25 Long       7.75 R.M. =      0.00    2
+    2 Headwaters  26 TribCell   111  Headwaters      36         R.M. =     45.04
+   19.90     8.80   0.2800     4.60   0.1100
+Node    65 Row     7 Column     7  Lat    49.75 Long       7.25 R.M. =     22.52    2
+Node    66 Row     7 Column     8  Lat    49.75 Long       7.75 R.M. =      0.00    2
+    8 Headwaters  27 TribCell   110  Headwaters      36         R.M. =    274.68
+   19.50     7.90   0.3400     2.90   0.1100
+Node    67 Row     7 Column    16  Lat    49.75 Long      11.75 R.M. =    233.31    2
+Node    68 Row     8 Column    15  Lat    50.25 Long      11.25 R.M. =    191.81    2
+Node    69 Row     7 Column    14  Lat    49.75 Long      10.75 R.M. =    169.29    2
+Node    70 Row     7 Column    13  Lat    49.75 Long      10.25 R.M. =    146.77    2
+Node    71 Row     7 Column    12  Lat    49.75 Long       9.75 R.M. =    124.24    2
+Node    72 Row     7 Column    11  Lat    49.75 Long       9.25 R.M. =     82.87    2
+Node    73 Row     8 Column    10  Lat    50.25 Long       8.75 R.M. =     41.37    2
+Node    74 Row     7 Column     9  Lat    49.75 Long       8.25 R.M. =      0.00    2
+    2 Headwaters  28 TribCell   110  Headwaters      36         R.M. =     45.04
+   19.70     8.90   0.2900     5.30   0.1100
+Node    75 Row     7 Column    10  Lat    49.75 Long       8.75 R.M. =     22.52    2
+Node    76 Row     7 Column     9  Lat    49.75 Long       8.25 R.M. =      0.00    2
+    5 Headwaters  29 TribCell   110  Headwaters      36         R.M. =    145.07
+   19.70     8.60   0.3100     4.10   0.1100
+Node    77 Row     5 Column    12  Lat    48.75 Long       9.75 R.M. =    122.09    2
+Node    78 Row     5 Column    11  Lat    48.75 Long       9.25 R.M. =     87.23    2
+Node    79 Row     6 Column    11  Lat    49.25 Long       9.25 R.M. =     64.48    2
+Node    80 Row     6 Column    10  Lat    49.25 Long       8.75 R.M. =     22.98    2
+Node    81 Row     7 Column     9  Lat    49.75 Long       8.25 R.M. =      0.00    2
+    2 Headwaters  30 TribCell   109  Headwaters      36         R.M. =     45.51
+   19.80     8.90   0.2800     5.20   0.1100
+Node    82 Row     6 Column     8  Lat    49.25 Long       7.75 R.M. =     22.75    2
+Node    83 Row     6 Column     9  Lat    49.25 Long       8.25 R.M. =      0.00    2
+    2 Headwaters  31 TribCell   107  Headwaters      36         R.M. =     83.50
+   19.70     8.90   0.2900     4.90   0.1000
+Node    84 Row     4 Column     9  Lat    48.25 Long       8.25 R.M. =     41.75    2
+Node    85 Row     5 Column     8  Lat    48.75 Long       7.75 R.M. =      0.00    2
+    2 Headwaters  32 TribCell   106  Headwaters      36         R.M. =     46.42
+   19.80     8.80   0.2900     4.70   0.1100
+Node    86 Row     4 Column     7  Lat    48.25 Long       7.25 R.M. =     23.21    2
+Node    87 Row     4 Column     8  Lat    48.25 Long       7.75 R.M. =      0.00    2
+    2 Headwaters  33 TribCell   105  Headwaters      36         R.M. =     46.87
+   19.70     8.90   0.3000     4.80   0.1100
+Node    88 Row     3 Column     7  Lat    47.75 Long       7.25 R.M. =     23.44    2
+Node    89 Row     3 Column     8  Lat    47.75 Long       7.75 R.M. =      0.00    2
+    6 Headwaters  34 TribCell   104  Headwaters      36         R.M. =    164.80
+   19.80     9.20   0.3100     4.70   0.1000
+Node    90 Row     1 Column     6  Lat    46.75 Long       6.75 R.M. =    140.92    2
+Node    91 Row     1 Column     7  Lat    46.75 Long       7.25 R.M. =    106.06    2
+Node    92 Row     2 Column     7  Lat    47.25 Long       7.25 R.M. =     82.40    2
+Node    93 Row     2 Column     8  Lat    47.25 Long       7.75 R.M. =     58.74    2
+Node    94 Row     2 Column     9  Lat    47.25 Long       8.25 R.M. =     23.88    2
+Node    95 Row     3 Column     9  Lat    47.75 Long       8.25 R.M. =      0.00    2
+    2 Headwaters  35 TribCell   103  Headwaters      36         R.M. =     84.00
+   19.90     9.30   0.3000     4.20   0.1000
+Node    96 Row     2 Column    11  Lat    47.25 Long       9.25 R.M. =     42.00    2
+Node    97 Row     3 Column    10  Lat    47.75 Long       8.75 R.M. =      0.00    2
+   22 Headwaters  36 TribCell   119  Headwaters       0         R.M. =    659.26
+   20.30     9.80   0.2900     4.30   0.1000
+Node    98 Row     1 Column    11  Lat    46.75 Long       9.25 R.M. =    635.37    2
+Node    99 Row     1 Column    12  Lat    46.75 Long       9.75 R.M. =    600.52    2
+Node   100 Row     2 Column    12  Lat    47.25 Long       9.75 R.M. =    565.66    2
+Node   101 Row     3 Column    12  Lat    47.75 Long       9.75 R.M. =    542.22    2
+Node   102 Row     3 Column    11  Lat    47.75 Long       9.25 R.M. =    518.79    2
+Node   103 Row     3 Column    10  Lat    47.75 Long       8.75 R.M. =    495.35    2
+Node   104 Row     3 Column     9  Lat    47.75 Long       8.25 R.M. =    471.92    2
+Node   105 Row     3 Column     8  Lat    47.75 Long       7.75 R.M. =    437.06    2
+Node   106 Row     4 Column     8  Lat    48.25 Long       7.75 R.M. =    402.20    2
+Node   107 Row     5 Column     8  Lat    48.75 Long       7.75 R.M. =    379.22    2
+Node   108 Row     5 Column     9  Lat    48.75 Long       8.25 R.M. =    344.37    2
+Node   109 Row     6 Column     9  Lat    49.25 Long       8.25 R.M. =    309.51    2
+Node   110 Row     7 Column     9  Lat    49.75 Long       8.25 R.M. =    286.99    2
+Node   111 Row     7 Column     8  Lat    49.75 Long       7.75 R.M. =    252.13    2
+Node   112 Row     8 Column     8  Lat    50.25 Long       7.75 R.M. =    210.89    2
+Node   113 Row     9 Column     7  Lat    50.75 Long       7.25 R.M. =    169.77    2
+Node   114 Row    10 Column     6  Lat    51.25 Long       6.75 R.M. =    128.77    2
+Node   115 Row    11 Column     5  Lat    51.75 Long       6.25 R.M. =     87.90    2
+Node   116 Row    12 Column     4  Lat    52.25 Long       5.75 R.M. =     66.56    2
+Node   117 Row    12 Column     3  Lat    52.25 Long       5.25 R.M. =     45.22    2
+Node   118 Row    12 Column     2  Lat    52.25 Long       4.75 R.M. =     23.88    2
+Node   119 Row    12 Column     1  Lat    52.25 Long       4.25 R.M. =      0.00    2
